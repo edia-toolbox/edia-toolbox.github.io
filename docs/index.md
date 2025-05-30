@@ -21,8 +21,7 @@ hide:
 
 
 
-#![alt text](assets/frontpage_image.png)
-![alt text](assets/Edia_Diagram.svg)
+![alt text](assets/frontpage_image.png)
 
 
 ## Key features
@@ -89,6 +88,8 @@ Read our [getting started guide](gettingstarted.md).
 
 
 ## Modules
+
+![alt text](assets/Edia_Diagram.svg)
 
 === ":edia-edia_rounded: EDIA Core"  
     ![Image title](assets/edia_rounded.svg){ width=100 align=left }  
