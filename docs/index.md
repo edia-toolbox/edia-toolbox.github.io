@@ -24,14 +24,6 @@ hide:
 ![alt text](assets/frontpage_image.png)
 
 ```mermaid
----
-config:
-  theme: neutral
-  themeVariables:
-    fontSize: 15px
-    fontFamily: Bahnschrift
-  layout: dagre
----
 flowchart LR
     n7["Controller"] <--> n8["RCAS"] & n9["Executor"]
     n8 <--> n9
