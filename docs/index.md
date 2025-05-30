@@ -23,6 +23,60 @@ hide:
 
 ![alt text](assets/frontpage_image.png)
 
+```mermaid
+---
+config:
+  theme: neutral
+  themeVariables:
+    fontSize: 15px
+    fontFamily: Bahnschrift
+  layout: dagre
+---
+flowchart LR
+    n7["Controller"] <--> n8["RCAS"] & n9["Executor"]
+    n8 <--> n9
+    n9 --> n10["UXF"] & n11["LSL"]
+    n12["EYE"] --> n9
+    n13["EYE Vive"] --> n12
+    n14["EYE Varjo"] --> n12
+    n15["EYE Quest"] --> n12
+    n16["EYE Pico"] --> n12
+    n10 --> n20["Logfiles"]
+    n21["Configs"] --> n7
+    n11 -.-> n30["Small Circle"]
+    n31["LSL Device"] -.-> n30
+    n24["Anchor"]
+    n7@{ shape: rounded}
+    n12@{ shape: rounded}
+    n13@{ shape: rounded}
+    n14@{ shape: rounded}
+    n15@{ shape: rounded}
+    n16@{ shape: rounded}
+    n20@{ shape: docs}
+    n21@{ shape: docs}
+    n30@{ shape: sm-circ}
+    n31@{ shape: hex}
+    n24@{ shape: anchor}
+     n7:::EdiaBlue
+     n8:::EdiaCyan
+     n9:::EdiaBlue
+     n10:::EdiaPurple
+     n11:::EdiaYellow
+     n12:::EdiaOrange
+     n13:::EdiaOrange
+     n14:::EdiaOrange
+     n15:::EdiaOrange
+     n16:::EdiaOrange
+     n30:::EdiaYellow
+    classDef EdiaGreen stroke:transparent, stroke-width:4px, stroke-transparent: 0, fill:#428360, color:#FEFEFE
+    classDef EdiaGrey stroke:transparent, stroke-width:4px, stroke-transparent: 0, fill:#797873, color:#FEFEFE
+    classDef EdiaCyan stroke:transparent, stroke-width:4px, stroke-transparent: 0, fill:#34AAAA, color:#FEFEFE
+    classDef EdiaBlue stroke:transparent, stroke-width:4px, stroke-transparent: 0, fill:#347FAA, color:#FEFEFE
+    classDef EdiaOrange stroke:transparent, stroke-width:4px, stroke-transparent: 0, fill:#D9740D, color:#FEFEFE
+    classDef EdiaPurple stroke:transparent, stroke-width:4px, stroke-transparent: 0, fill:#C36897, color:#FEFEFE
+    classDef EdiaYellow stroke:transparent, stroke-width:4px, stroke-transparent: 0, fill:#FFdC4A, color:#FEFEFE
+```
+
 
 ## Key features
 
