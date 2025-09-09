@@ -15,7 +15,7 @@ hide:
 
     We are currently resolving some legal aspects with our institution before we can publicly release the full source code. We appreciate your patience and expect to have everything ready soon.
 
-    We’re planning to launch the public alpha release early July.
+    We’re planning to launch the public alpha release within 2025.
 
     If you want to get access beforehand, [please reach out to us](contact.md).
 
