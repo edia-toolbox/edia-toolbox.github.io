@@ -9,13 +9,13 @@ hide:
 
 !!! note "EDIA provides you with a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR."
     
-
+<h2 style="text-align:center;">Countdown to launch 🚀</h2>
 
 <div id="countdown"
      class="countdown"
      data-target="2025-11-07T17:00:00+01:00"
      aria-live="polite">
-    ## Countdown to launch 🚀</div>
+    </div>
 
 <style>
   .countdown { font: 600 1.25rem/1.2 system-ui, sans-serif; display:flex; gap:.75rem; margin-top:1rem; justify-content:center; text-align:center; }
