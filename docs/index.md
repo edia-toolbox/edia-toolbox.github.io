@@ -195,7 +195,7 @@ Read our [getting started guide](gettingstarted.md).
         
 
 ## Get involved
-If you want to use EDIA or start contributing (as soon as it is openly available), please 
+If you want to use EDIA or start contributing, please 
 [reach out to us](contact.md).
 
 
