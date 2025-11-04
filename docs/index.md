@@ -18,7 +18,7 @@ hide:
      aria-live="polite"></div>
 
 <style>
-  .countdown { font: 600 1.25rem/1.2 system-ui, sans-serif; display:flex; gap:.75rem; margin-top:1rem; }
+  .countdown { font: 600 1.25rem/1.2 system-ui, sans-serif; display:flex; gap:.75rem; margin-top:1rem; justify-content:center; text-align:center; }
   .countdown .box { text-align:center; padding:.5rem .75rem; border:1px solid #ddd; border-radius:.75rem; }
   .countdown .num { display:block; font-size:1.5rem; }
   .countdown .label { font-size:.75rem; opacity:.7; text-transform:uppercase; letter-spacing:.03em; }
