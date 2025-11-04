@@ -14,7 +14,7 @@ hide:
 
 <div id="countdown"
      class="countdown"
-     data-target="2025-12-31T23:59:59+01:00"
+     data-target="2025-11-07T17:00:00+01:00"
      aria-live="polite"></div>
 
 <style>
