@@ -27,7 +27,7 @@ hide:
 <script>
 (function () {
   const el = document.getElementById('countdown');
-  const targetIso = el.dataset.target || "2025-12-31T23:59:59+01:00";
+  const targetIso = el.dataset.target || "2025-11-07T17:00:00+01:00";
   const target = new Date(targetIso).getTime();
 
   const boxes = ['Days','Hours','Minutes','Seconds'].map(label => {
@@ -62,16 +62,6 @@ hide:
   const timer = setInterval(tick, 1000);
 })();
 </script>
-
-
-!!! warning "EDIA will be Open Source soon..."
-
-    We are currently resolving some legal aspects with our institution before we can publicly release the full source code. We appreciate your patience and expect to have everything ready soon.
-
-    We’re planning to launch the public alpha release within 2025.
-
-    If you want to get access beforehand, [please reach out to us](contact.md).
-
 
 
 ![alt text](assets/frontpage_image.png)
