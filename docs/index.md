@@ -9,61 +9,6 @@ hide:
 
 !!! note "EDIA provides you with a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR."
     
-<h2 style="text-align:center;">Countdown to launch 🚀</h2>
-
-<div id="countdown"
-     class="countdown"
-     data-target="2025-11-07T17:00:00+01:00"
-     aria-live="polite">
-    </div>
-
-<style>
-  .countdown { font: 600 1.25rem/1.2 system-ui, sans-serif; display:flex; gap:.75rem; margin-top:1rem; justify-content:center; text-align:center; }
-  .countdown .box { text-align:center; padding:.5rem .75rem; border:1px solid #ddd; border-radius:.75rem; }
-  .countdown .num { display:block; font-size:1.5rem; }
-  .countdown .label { font-size:.75rem; opacity:.7; text-transform:uppercase; letter-spacing:.03em;  justify-content:center; }
-</style>
-
-<script>
-(function () {
-  const el = document.getElementById('countdown');
-  const targetIso = el.dataset.target || "2025-11-07T17:00:00+01:00";
-  const target = new Date(targetIso).getTime();
-
-  const boxes = ['Days','Hours','Minutes','Seconds'].map(label => {
-    const box = document.createElement('div');
-    box.className = 'box';
-    box.innerHTML = `<span class="num">00</span><span class="label">${label}</span>`;
-    el.appendChild(box);
-    return box.querySelector('.num');
-  });
-
-  function pad(n){ return String(n).padStart(2,'0'); }
-  function tick(){
-    const now = Date.now();
-    let diff = Math.max(0, target - now);
-
-    const days = Math.floor(diff / (1000*60*60*24)); diff -= days*24*60*60*1000;
-    const hours = Math.floor(diff / (1000*60*60));   diff -= hours*60*60*1000;
-    const mins = Math.floor(diff / (1000*60));       diff -= mins*60*1000;
-    const secs = Math.floor(diff / 1000);
-
-    boxes[0].textContent = pad(days);
-    boxes[1].textContent = pad(hours);
-    boxes[2].textContent = pad(mins);
-    boxes[3].textContent = pad(secs);
-
-    if (target - now <= 0) {
-      clearInterval(timer);
-      el.textContent = "🎉 Time’s up!";
-    }
-  }
-  tick();
-  const timer = setInterval(tick, 1000);
-})();
-</script>
-
-
 ![alt text](assets/frontpage_image.png)
 
 
