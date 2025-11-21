@@ -1,5 +1,8 @@
 site_name: EDIA
-site-url: https://edia-toolbox.github.io/
+site_url: https://edia-toolbox.github.io/
+
+repo_url: https://github.com/edia-toolbox/edia_core
+repo_name: edia-toolbox/edia_core   # (optional)
 
 markdown_extensions:
   - attr_list
@@ -28,6 +31,7 @@ theme:
     admonition:
       note: fontawesome/solid/note-sticky
       tip: fontawesome/solid/bullhorn
+    repo: fontawesome/brands/github
     
   name: material
   palette: 

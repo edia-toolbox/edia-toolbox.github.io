@@ -38,7 +38,7 @@ hide:
 
     EDIA provides an integration of eye tracking for multiple different headsets (HTC Vive, Varjo, Meta Quest Pro, Pico), managing the parsing of the eye tracker output for you in the original sampling rate, and providing it via a standardized interface.
 
-    [:octicons-arrow-right-24: EDIA Eye module](https://mind-body-emotion.notion.site/EDIA-Eye-1e703dd4773f80ea8cfcd75bd87c004b){target="_blank"}
+    [:octicons-arrow-right-24: :edia-Edia_Eye_Orange: `EDIA Eye`](https://mind-body-emotion.notion.site/EDIA-Eye-1e703dd4773f80ea8cfcd75bd87c004b){target="_blank"}
 
 -   :material-remote:{ .lg .middle } __Remotely control mobile XR experiments__
 
@@ -47,7 +47,7 @@ hide:
     Control experiments which run on a mobile XR headset (e.g., Meta Quest) externally and stream what the participant is seeing.
 
 
-    [:octicons-arrow-right-24: EDIA RCAS](https://mind-body-emotion.notion.site/EDIA-Remote-9dfde97f593e4221bee4630ab3284d4e){target="_blank"}
+    [:octicons-arrow-right-24: :edia-Edia_Rcas_Cyan: `EDIA RCAS`](https://mind-body-emotion.notion.site/EDIA-Remote-9dfde97f593e4221bee4630ab3284d4e){target="_blank"}
 
 -   :fontawesome-regular-pen-to-square:{ .lg .middle } __Automatically log relevant data__
 
@@ -65,7 +65,7 @@ hide:
     Use the [LabStreamingLayer protocol](https://labstreaminglayer.org/){:target="_blank"} to synchronize your experiment with other data streams (e.g., EEG, fNIRS, ...).
 
 
-    [:octicons-arrow-right-24: EDIA LSL](https://mind-body-emotion.notion.site/EDIA-LSL-d0a26b0a043d408dbe353221242296b6){target="_blank"}
+    [:octicons-arrow-right-24: :edia-Edia_Lsl_Yellow: `EDIA LSL`](https://mind-body-emotion.notion.site/EDIA-LSL-d0a26b0a043d408dbe353221242296b6){target="_blank"}
 
 </div>
 
@@ -76,8 +76,6 @@ Read our [getting started guide](gettingstarted.md).
 
 
 ## Modules
-
-![alt text](assets/Edia_Diagram.svg)
 
 === ":edia-edia_rounded: EDIA Core"  
     [![Image title](assets/edia_rounded.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_core){:target="_blank"}  
@@ -141,7 +139,9 @@ Read our [getting started guide](gettingstarted.md).
     { .card }
 
     </div>
-        
+
+![alt text](assets/Edia_Diagram.svg)
+
 
 ## Get involved
 If you want to use EDIA or start contributing, please 
