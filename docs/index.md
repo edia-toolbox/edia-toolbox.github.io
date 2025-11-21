@@ -80,40 +80,44 @@ Read our [getting started guide](gettingstarted.md).
 ![alt text](assets/Edia_Diagram.svg)
 
 === ":edia-edia_rounded: EDIA Core"  
-    ![Image title](assets/edia_rounded.svg){ width=100 align=left }  
+    [![Image title](assets/edia_rounded.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_core){:target="_blank"}  
 
     * The 🖤 heart of the EDIA toolbox.
     * Structure your experiment: `Sessions` <> `Blocks` <> `Trials` <> `Trial Steps`
     * Use logically nested Config files (JSON) to manage the compiled experiment.
     * Send messages to the XR user.
     * Experimenter interface.
+    * Download from :fontawesome-brands-github: &rarr; [:edia-edia_rounded: `EDIA Core`](https://github.com/edia-toolbox/edia_core){:target="_blank"}
     
 
 === ":edia-Edia_Lsl_Yellow: EDIA LSL"  
-    ![Image title](assets/Edia_Lsl_Yellow.svg){ width=100 align=left }  
+    [![Image title](assets/Edia_Lsl_Yellow.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_lsl){:target="_blank"}  
 
     1. Use the [LabStreamingLayer](https://labstreaminglayer.org/){:target="_blank"} protocol to synchronize your data.
     2. The :edia-Edia_Lsl_Yellow: `EDIA LSL` module is a convenience wrapper and extension of the [LSL4Unity](https://github.com/labstreaminglayer/LSL4Unity){:target="_blank} package.
     3. It provides prefabs and scripts which allow you to
         2. Send precisely timed triggers with a single command. 
         3. Easily stream data (eye tracking data, movement data) in world or local coordinates.
+    4. Download from :fontawesome-brands-github: &rarr; [:edia-Edia_Lsl_Yellow: `EDIA LSL`](https://github.com/edia-toolbox/edia_lsl){:target="_blank"}
 
 === ":edia-Edia_Rcas_Cyan: EDIA RCAS"  
-    ![Image title](assets/Edia_Rcas_Cyan.svg){ width=100 align=left }  
+    [![Image title](assets/Edia_Rcas_Cyan.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_rcas){:target="_blank"}  
 
     1. <span style="color: cyan;">**R**</span>emote <span style="color: cyan;">**C**</span>ontrol <span style="color: cyan;">**A**</span>nd <span style="color: cyan;">**S**</span>treaming.
     2. Interface with your experiment which runs on a mobile headset.
     3. Load Config files from another device.
     4. Send commands to proceed in the experiment.
     5. Stream the headset view to the experimenter's device (*limited).
+    6. Download from :fontawesome-brands-github: &rarr; [:edia-Edia_Rcas_Cyan: `EDIA RCAS`](https://github.com/edia-toolbox/edia_rcas){:target="_blank"}
 
 === ":edia-Edia_Eye_Orange: EDIA Eye"  
-     ![Image title](assets/Edia_Eye_Orange.svg){ width=100 align=left }  
+     [![Image title](assets/Edia_Eye_Orange.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_eye){:target="_blank"}  
 
     * Central :eye: eye tracking package of the `EDIA toolbox`.  
     * Provides a unified interface for accessing eye tracking data.  
     * Example visualizations of eye tracking data: gaze, eye openness, ...  
-    * Interface for logging eye tracking data via :edia-Edia_Lsl_Yellow:`EDIA LSL` or writing it to disc.
+    * Interface for logging eye tracking data via [:edia-Edia_Lsl_Yellow:`EDIA LSL`](https://github.com/edia-toolbox/edia_lsl) or writing it to disc.
+    * Download from :fontawesome-brands-github: &rarr; [:edia-Edia_Eye_Orange: `EDIA Eye`](https://github.com/edia-toolbox/edia_eye){:target="_blank"}
 
 
 === ":edia-Edia_Eye_Orange: EDIA Eye Submodules"  
@@ -124,16 +128,16 @@ Read our [getting started guide](gettingstarted.md).
     
     <div class="grid" markdown>
 
-    :fontawesome-brands-meta: Meta Quest Pro
+    [:fontawesome-brands-meta: Meta Quest Pro](https://github.com/edia-toolbox/edia_eye_quest){:target="_blank"}
     { .card }
 
-    :brands-vive: HTC Vive Pro Eye
+    [:brands-vive: HTC Vive Pro Eye](https://github.com/edia-toolbox/edia_eye_vive){:target="_blank"}
     { .card }
 
-    :brands-varjo_bg: Varjo Aero
+    [:brands-varjo_bg: Varjo Aero](https://github.com/edia-toolbox/edia_eye_varjo){:target="_blank"}
     { .card }
 
-    :brands-pico_bg: PICO 4 Enterprise
+    [:brands-pico_bg: PICO 4 Enterprise](https://github.com/edia-toolbox/edia_eye_pico){:target="_blank"}
     { .card }
 
     </div>
