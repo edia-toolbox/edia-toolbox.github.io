@@ -7,7 +7,7 @@ hide:
 
 Below are example research projects that demonstrate how the EDIA modules can be combined. 
 
-<div class="grid cards" markdown>
+<div class="grid cards grid--cols-1" markdown>
 
 -   [![Project A](assets/VRstereofem_logo2.png){ width=80 align=left }](#){:target="_blank"}
 
