@@ -5,7 +5,7 @@ hide:
 
 # Use Cases
 
-Below are example research projects that demonstrate how the EDIA modules can be combined. These are dummy entries for illustration purposes.
+Below are example research projects that demonstrate how the EDIA modules can be combined. 
 
 <div class="grid cards" markdown>
 
