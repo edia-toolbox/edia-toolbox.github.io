@@ -3,8 +3,3 @@
   --md-primary-fg-color--light: #407DCD;
   --md-primary-fg-color--dark:  #407DCD;
 }
-
-/* Force single-column layout for Use Cases page, regardless of theme version */
-.md-typeset .usecases-list .grid.cards {
-  grid-template-columns: 1fr !important;
-}

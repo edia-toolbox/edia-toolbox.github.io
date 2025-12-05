@@ -7,8 +7,6 @@ hide:
 
 Below are example research projects that demonstrate how the EDIA modules can be combined. 
 
-<section class="usecases-list">
-
 <div class="grid cards grid--cols-1" markdown>
 
 -   [![Project A](assets/VRstereofem_logo2.png){ width=80 align=left }](#){:target="_blank"}
@@ -40,5 +38,3 @@ Below are example research projects that demonstrate how the EDIA modules can be
         - :edia-Edia_Lsl_Yellow: EDIA LSL
 
 </div>
-
-</section>
