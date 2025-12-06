@@ -16,7 +16,7 @@ Below are example research projects that demonstrate how the EDIA modules can be
     #### VRStereoFem
     Detailed information on this project will be added soon.
 
-    - Published paper: [Doe et al., 2024 — Journal of XR Research](https://doi.org/10.1234/placeholder1){:target="_blank"}
+    - Published paper:
     - More info: [VRStereoFem](https://elifesciences.org/)
     - Modules used:
         - :edia-edia_rounded: EDIA Core  
