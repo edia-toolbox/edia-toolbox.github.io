@@ -74,10 +74,11 @@ hide:
 ## Getting started
 Read our [getting started guide](gettingstarted.md).
 
-
+<div id="edia-modules"></div>
 ## Modules
 
 === ":edia-edia_rounded: EDIA Core"  
+    
     [![Image title](assets/edia_rounded.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_core){:target="_blank"}  
 
     * The 🖤 heart of the EDIA toolbox.
@@ -89,6 +90,7 @@ Read our [getting started guide](gettingstarted.md).
     
 
 === ":edia-Edia_Lsl_Yellow: EDIA LSL"  
+
     [![Image title](assets/Edia_Lsl_Yellow.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_lsl){:target="_blank"}  
 
     1. Use the [LabStreamingLayer](https://labstreaminglayer.org/){:target="_blank"} protocol to synchronize your data.

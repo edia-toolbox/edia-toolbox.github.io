@@ -1,42 +1,92 @@
 ---
-hide:
+hide: 
   - navigation
   - toc
 ---
+
 # Use Cases
 
 Below are example research projects that demonstrate how the EDIA modules can be combined.
 
-<div class="grid cards" markdown>
+<div class="grid cards grid--cols-2" markdown>
 
--   ### ![Project A](assets/VRstereofem_logo2.png){ width=50 } VRStereoFem
-
+-   ### ![VRStereoFem](assets/VRstereofem_logo2.png){ width=50 } VRStereoFem { .usecase-head }
     ---
-
+    <i>Period: 2022</i><br>
     Detailed information on this project will be added soon.
-
-    **Project Details:**
-    *   **Published paper:** TBD
-    *   **More info:** [VRStereoFem](https://elifesciences.org/)
-
-    **Modules used:**
-    *   :edia-edia_rounded: EDIA Core
-    *   :edia-Edia_Eye_Orange: EDIA Eye
-    *   :edia-Edia_Eye_Orange: EDIA Eye Vive
-
--   ### ![Project B](assets/Affective.png){ width=50 } Affective VR
-
     ---
+    #### Equipment
+    * Platform: PC VR
+    * Headset: HTC Vive Pro
+    * Eye Tracker: Tobii TX300
+    * Interaction: HTC Vive Controllers
+    ---
+    #### EDIA Modules
+    * :edia-edia_rounded: EDIA Core v0.1
+    * :edia-Edia_Eye_Orange: EDIA Eye v0.1
+    * :edia-Edia_Eye_Orange: EDIA Eye Vive v0.1
+    --------
+    #### External Links:
+    :octicons-file-24:[ Published Paper](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1567854/full){:target="_blank"}<br>
 
+-   ### ![Project B](assets/Affective.png){ width=50 } Affective VR { .usecase-head }
+    ---
+    <i>Period: 2023-24</i><br>
     Studying dynamics and physiology of affective states in immersive virtual reality. Emotion elicitation through stereoscopic 360° videos and simultaneous recordings.
+    --------
+    #### Equipment:
+    * Platform: PC VR
+    * Headset: HTC Vive Pro
+    * Eye Tracker: Tobii TX300
+    * Interaction: HTC Vive Controllers
+    --------
+    #### EDIA Modules:
+    *   :edia-edia_rounded: EDIA Core v0.1
+    *   :edia-Edia_Eye_Orange: EDIA Eye v0.1
+    *   :edia-Edia_Eye_Orange: EDIA Eye Vive v0.1
+    --------
+    #### External Links:
+    :octicons-file-24:[ Published Paper](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1567854/full){:target="_blank"}<br>
+    :material-open-in-new:{ .middle }[ Github Affectracker ](https://github.com/afourcade/AffectTracker)<br>
+    :material-open-in-new:{ .middle }[ Thefirstfloor project page](https://www.behance.net/gallery/208265939/Affective-VR)<br>
 
-    **Project Details:**
-    *   **Published paper:** [AffectTracker: real-time continuous rating...](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1567854/full){:target="_blank"}
+-   ### ![Project B](assets/suspect.png){ width=50 } 3DIL { .usecase-head }
+    ---
+    <i>Period: 2025...</i><br>
+    Currently running study. 
+    --------
+    #### Equipment:
+    * Platform: PC VR
+    * Headset: Varjo Aero
+    * Eye Tracker: Varjo Eye
+    * Interaction: HTC Vive Controllers
+    --------
+    #### EDIA Modules:
+    *   :edia-edia_rounded: EDIA Core v0.1
+    *   :edia-Edia_Eye_Orange: EDIA Eye v0.1
+    *   :edia-Edia_Eye_Orange: EDIA Eye Varjo v0.1
+    --------
+    #### External Links:
+    :octicons-file-24:[ Published Paper](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1567854/full){:target="_blank"}<br>
+    :material-open-in-new:{ .middle }[ Thefirstfloor project page](https://www.behance.net/gallery/208265939/Affective-VR)<br>
 
-    **Modules used:**
-    *   :edia-edia_rounded: EDIA Core
-    *   :edia-Edia_Eye_Orange: EDIA Eye
-    *   :edia-Edia_Eye_Orange: EDIA Eye Vive
-    *   :edia-Edia_Lsl_Yellow: EDIA LSL
+-   ### ![Project B](assets/Placeholder.png){ width=50 } IVRNN { .usecase-head }
+    ---
+    <i>Period: 2022=23</i><br>
+    Immersive Virtual Reality for Naturalistic Neuroscience.
+    --------
+    #### Equipment:
+    * Platform: PC VR
+    * Headset: HTC Vive Pro
+    * Eye Tracker: Tobii TX300
+    * Interaction: HTC Vive Controllers
+    --------
+    #### EDIA Modules:
+    *   :edia-edia_rounded: EDIA Core v0.1
+    *   :edia-Edia_Eye_Orange: EDIA Eye v0.1
+    *   :edia-Edia_Eye_Orange: EDIA Eye Vive v0.1
+    --------
+    #### External Links:
+    :octicons-file-24:[ Published Paper](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1567854/full){:target="_blank"}<br>
 
 </div>

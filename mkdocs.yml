@@ -22,7 +22,9 @@ markdown_extensions:
 theme: 
   logo: assets/logo.png
   favicon: assets/favicon.ico
-  font: false
+  font:
+      text: Barlow
+      code: Roboto Mono
   features:
     - navigation.tabs
     - navigation.tabs.sticky
