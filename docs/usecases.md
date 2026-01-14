@@ -9,11 +9,10 @@ Below are example research projects that demonstrate how the EDIA modules can be
 
 <div class="grid cards grid--cols-1" markdown>
 
--   [![Project A](assets/VRstereofem_logo2.png){ width=80 align=left }](#){:target="_blank"}
+-   ### VRStereoFem
+    [![Project A](assets/VRstereofem_logo2.png){ width=80 align=left }](#){:target="_blank"}
 
-    ---
-
-    #### VRStereoFem
+    ### VRStereoFem
     Detailed information on this project will be added soon.
 
     - Published paper:
