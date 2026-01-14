@@ -1,5 +1,6 @@
 ---
-span
+hide:
+  - navigation
 ---
 # Use Cases
 
