@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+  - toc
 ---
 # Use Cases
 
