@@ -5,12 +5,14 @@ span
 
 Below are example research projects that demonstrate how the EDIA modules can be combined.
 
-<div class="grid cards grid--cols-0" markdown>
+<div class="grid cards grid--cols-1" markdown>
 
-- #### VRStereoFem
-  [![Project A](assets/VRstereofem_logo2.png){ width=80 align=left }](#){:target="_blank"}
+- [![Project A](assets/VRstereofem_logo2.png){ width=80 align=left }](#){:target="_blank"}
+
+  #### VRStereoFem
 
   Detailed information on this project will be added soon.
+
 
   - Published paper:
   - More info: [VRStereoFem](https://elifesciences.org/)
@@ -18,7 +20,6 @@ Below are example research projects that demonstrate how the EDIA modules can be
     - :edia-edia_rounded: EDIA Core
     - :edia-Edia_Eye_Orange: EDIA Eye
     - :edia-Edia_Eye_Orange: EDIA Eye Vive
-
 - [![Project B](assets/Affective.png){ width=80 align=left }](#){:target="_blank"}
 
   #### Affective VR
