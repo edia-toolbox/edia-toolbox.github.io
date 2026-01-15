@@ -18,16 +18,17 @@ Below are example research projects that demonstrate how the EDIA modules can be
     #### Equipment
     * Platform: PC VR
     * Headset: HTC Vive Pro
-    * Eye Tracker: Tobii TX300
+    * Eye Tracker: Tobii with HTC SRanipal SDK
     * Interaction: HTC Vive Controllers
     ---
     #### EDIA Modules
-    * :edia-edia_rounded: EDIA Core v0.1
-    * :edia-Edia_Eye_Orange: EDIA Eye v0.1
-    * :edia-Edia_Eye_Orange: EDIA Eye Vive v0.1
+    * :edia-edia_rounded: EDIA Core 
+    * :edia-Edia_Eye_Orange: EDIA Eye
+    * :edia-Edia_Eye_Orange: EDIA Eye Vive 
     --------
     #### External Links:
-    :octicons-file-24:[ Published Paper](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1567854/full){:target="_blank"}<br>
+    :octicons-file-24:[ Published Paper](https://edia-toolbox.github.io){:target="_blank"}<br>
+    :material-open-in-new:{ .middle }[ Project page](https://edia-toolbox.github.io)<br>
 
 -   ### ![Project B](assets/Affective.png){ width=50 } Affective VR { .usecase-head }
     ---
@@ -37,13 +38,14 @@ Below are example research projects that demonstrate how the EDIA modules can be
     #### Equipment:
     * Platform: PC VR
     * Headset: HTC Vive Pro
-    * Eye Tracker: Tobii TX300
+    * Eye Tracker: Tobii with HTC SRanipal SDK
     * Interaction: HTC Vive Controllers
     --------
     #### EDIA Modules:
-    *   :edia-edia_rounded: EDIA Core v0.1
-    *   :edia-Edia_Eye_Orange: EDIA Eye v0.1
-    *   :edia-Edia_Eye_Orange: EDIA Eye Vive v0.1
+    *   :edia-edia_rounded: EDIA Core
+    *   :edia-Edia_Eye_Orange: EDIA Eye
+    *   :edia-Edia_Eye_Orange: EDIA Eye Vive
+    *   :edia-Edia_Lsl_Yellow: EDIA LSL
     --------
     #### External Links:
     :octicons-file-24:[ Published Paper](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1567854/full){:target="_blank"}<br>
@@ -62,13 +64,13 @@ Below are example research projects that demonstrate how the EDIA modules can be
     * Interaction: HTC Vive Controllers
     --------
     #### EDIA Modules:
-    *   :edia-edia_rounded: EDIA Core v0.1
-    *   :edia-Edia_Eye_Orange: EDIA Eye v0.1
-    *   :edia-Edia_Eye_Orange: EDIA Eye Varjo v0.1
+    *   :edia-edia_rounded: EDIA Core
+    *   :edia-Edia_Eye_Orange: EDIA Eye
+    *   :edia-Edia_Eye_Orange: EDIA Eye Varjo
     --------
     #### External Links:
-    :octicons-file-24:[ Published Paper](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1567854/full){:target="_blank"}<br>
-    :material-open-in-new:{ .middle }[ Thefirstfloor project page](https://www.behance.net/gallery/208265939/Affective-VR)<br>
+    :octicons-file-24:[ Published Paper](https://edia-toolbox.github.io){:target="_blank"}<br>
+    :material-open-in-new:{ .middle }[ Project page](https://edia-toolbox.github.io)<br>
 
 -   ### ![Project B](assets/Placeholder.png){ width=50 } IVRNN { .usecase-head }
     ---
@@ -76,17 +78,22 @@ Below are example research projects that demonstrate how the EDIA modules can be
     Immersive Virtual Reality for Naturalistic Neuroscience.
     --------
     #### Equipment:
-    * Platform: PC VR
-    * Headset: HTC Vive Pro
-    * Eye Tracker: Tobii TX300
-    * Interaction: HTC Vive Controllers
+    * Platforms: PC VR, Android
+    * Headset: Meta Quest pro, Pico 4
+    * Eye Tracker: Meta, Tobii
+    * Interaction: Meta, Pico Controllers
     --------
     #### EDIA Modules:
-    *   :edia-edia_rounded: EDIA Core v0.1
-    *   :edia-Edia_Eye_Orange: EDIA Eye v0.1
-    *   :edia-Edia_Eye_Orange: EDIA Eye Vive v0.1
+    *   :edia-edia_rounded: EDIA Core 
+    *   :edia-Edia_Eye_Orange: EDIA Eye
+    *   :edia-Edia_Eye_Orange: EDIA Eye Quest
+    *   :edia-Edia_Eye_Orange: EDIA Eye Pico
+    *   :edia-Edia_Eye_Cyan: EDIA RCAS
     --------
     #### External Links:
-    :octicons-file-24:[ Published Paper](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1567854/full){:target="_blank"}<br>
+    :octicons-file-24:[ Published Paper](https://edia-toolbox.github.io){:target="_blank"}<br>
+    :material-open-in-new:{ .middle }[ Project page](https://edia-toolbox.github.io)<br>
 
 </div>
+
+<small>Some icons are from flaticon.com</small>
