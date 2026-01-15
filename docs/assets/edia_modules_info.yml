@@ -1,0 +1,30 @@
+modules:
+  core:
+    name: "EDIA Core"
+    icon: "edia-edia_rounded"
+    url: "https://github.com/edia-toolbox/edia_core"
+    default_version: "main"
+
+  eye:
+    name: "EDIA Eye"
+    icon: "edia-Edia_Eye_Orange"
+    url: "https://github.com/edia-toolbox/edia_eye"
+    default_version: "main"
+
+  eye_vive:
+    name: "EDIA Eye Vive"
+    icon: "edia-Edia_Eye_Orange"
+    url: "https://github.com/edia-toolbox/edia_eye_vive"
+    default_version: "main"
+
+  eye_varjo:
+    name: "EDIA Eye Varjo"
+    icon: "edia-Edia_Eye_Orange"
+    url: "https://github.com/edia-toolbox/edia_eye_varjo"
+    default_version: "main"
+
+  lsl:
+    name: "EDIA LSL"
+    icon: "edia-Edia_Lsl_Yellow"
+    url: "https://github.com/edia-toolbox/edia_lsl"
+    default_version: "main"
