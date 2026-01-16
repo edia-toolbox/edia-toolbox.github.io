@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - main
+      - feat/styleusecases
 permissions:
   contents: write
 jobs:
