@@ -23,8 +23,32 @@ modules:
     url: "https://github.com/edia-toolbox/edia_eye_varjo"
     default_version: "main"
 
+  eye_quest:
+      name: "EDIA Eye Quest"
+      icon: "edia-Edia_Eye_Orange"
+      url: "https://github.com/edia-toolbox/edia_eye_quest"
+      default_version: "main"
+
+  eye_pico:
+        name: "EDIA Eye Pico"
+        icon: "edia-Edia_Eye_Orange"
+        url: "https://github.com/edia-toolbox/edia_eye_pico"
+        default_version: "main"
+
+  eye_focus:
+        name: "EDIA Eye Focus"
+        icon: "edia-Edia_Eye_Orange"
+        url: "https://github.com/edia-toolbox/edia_eye_focus"
+        default_version: "main"
+
   lsl:
-    name: "EDIA LSL"
-    icon: "edia-Edia_Lsl_Yellow"
-    url: "https://github.com/edia-toolbox/edia_lsl"
+      name: "EDIA LSL"
+      icon: "edia-Edia_Lsl_Yellow"
+      url: "https://github.com/edia-toolbox/edia_lsl"
+      default_version: "main"
+
+  rcas:
+    name: "EDIA RCAS"
+    icon: "edia-Edia_Rcas_Cyan"
+    url: "https://github.com/edia-toolbox/edia_rcas"
     default_version: "main"
