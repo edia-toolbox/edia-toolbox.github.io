@@ -40,7 +40,7 @@ def define_env(env):
         target_blank: bool = True,
     ) -> str:
         """
-        Render a single EDIA module link with icon + label + [stage] + optional version.
+        Render a single EDIA module link with icon + label + optional version.
 
         Usage:
           {{ edia("eye") }}
@@ -72,7 +72,6 @@ def define_env(env):
         keys: List[str],
         *,
         version: Optional[str] = None,
-        stage: Optional[str] = None,
     ) -> str:
         """
         Render a bullet list of EDIA modules.
@@ -89,7 +88,6 @@ def define_env(env):
         *,
         sep: str = " · ",
         version: Optional[str] = None,
-        stage: Optional[str] = None,
     ) -> str:
         """
         Render an inline sequence of module links.
