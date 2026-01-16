@@ -146,5 +146,6 @@ Below are example research projects that demonstrate how the EDIA modules can be
         **Publications & links**
 
         - :fontawesome-solid-person-chalkboard: [Meeting Abstract [VSS 2025]](https://jov.arvojournals.org/article.aspx?articleid=2809682){:target="_blank"}
+        - :fontawesome-solid-person-chalkboard: [Poster [Psychologie & Gehirn 2025]](https://pure.mpg.de/rest/items/item_3674441_3/component/file_3674442/content){:target="_blank"}
 
 </div>
