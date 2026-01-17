@@ -17,26 +17,6 @@
   margin-bottom: 0.1em;
 }
 
-.md-typeset .grid.cards h4 {
-  margin-top: 0.2em;    /* Smaller gap inside the card */
-  margin-bottom: 0.1em;
-  text-transform: uppercase; /* Optional: makes card sub-headers look like labels */
-  letter-spacing: 0.05em;
-  font-size: 0.75rem;
-}
-
-.md-typeset h3.usecase-head {
-  display: flex;
-  align-items: center;   /* vertical centering */
-  gap: 0.6rem;
-}
-
-/* Prevent the image from sitting on the text baseline */
-.md-typeset h3.usecase-head img {
-  display: block;
-  margin: 0;
-}
-
 /* Force exactly 2 columns for MkDocs Material grid */
 .md-typeset .grid.cards.grid--cols-2 {
   grid-template-columns: repeat(2, minmax(0, 1fr));
