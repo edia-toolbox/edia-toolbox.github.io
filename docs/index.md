@@ -72,7 +72,9 @@ hide:
 
 
 ## Getting started
-Read our [getting started guide](gettingstarted.md).
+Read our [getting started guide](gettingstarted.md).  
+To install the EDIA modules into your Unity project, we recommend using our `EDIA Installer` ([:fontawesome-solid-download: download](https://github.com/edia-toolbox/edia_installer/releases/latest/download/EdiaInstaller.unitypackage), [:fontawesome-solid-book: README](https://github.com/edia-toolbox/edia_installer){target="_blank"}, 
+[:fontawesome-brands-github: source](https://github.com/edia-toolbox/edia_installer){target="_blank"}). 
 
 <div id="edia-modules"></div>
 ## Modules
