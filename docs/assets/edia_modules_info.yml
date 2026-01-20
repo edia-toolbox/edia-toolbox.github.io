@@ -1,0 +1,54 @@
+modules:
+  core:
+    name: "EDIA Core"
+    icon: "edia-edia_rounded"
+    url: "https://github.com/edia-toolbox/edia_core"
+    default_version: ""
+
+  eye:
+    name: "EDIA Eye"
+    icon: "edia-Edia_Eye_Orange"
+    url: "https://github.com/edia-toolbox/edia_eye"
+    default_version: ""
+
+  eye_vive:
+    name: "EDIA Eye Vive"
+    icon: "edia-Edia_Eye_Orange"
+    url: "https://github.com/edia-toolbox/edia_eye_vive"
+    default_version: ""
+
+  eye_varjo:
+    name: "EDIA Eye Varjo"
+    icon: "edia-Edia_Eye_Orange"
+    url: "https://github.com/edia-toolbox/edia_eye_varjo"
+    default_version: ""
+
+  eye_quest:
+    name: "EDIA Eye Quest"
+    icon: "edia-Edia_Eye_Orange"
+    url: "https://github.com/edia-toolbox/edia_eye_quest"
+    default_version: ""
+
+  eye_pico:
+    name: "EDIA Eye Pico"
+    icon: "edia-Edia_Eye_Orange"
+    url: "https://github.com/edia-toolbox/edia_eye_pico"
+    default_version: ""
+
+  eye_focus:
+    name: "EDIA Eye Focus"
+    icon: "edia-Edia_Eye_Orange"
+    url: "https://github.com/edia-toolbox/edia_eye_focus"
+    default_version: ""
+
+  lsl:
+    name: "EDIA LSL"
+    icon: "edia-Edia_Lsl_Yellow"
+    url: "https://github.com/edia-toolbox/edia_lsl"
+    default_version: ""
+
+  rcas:
+    name: "EDIA RCAS"
+    icon: "edia-Edia_Rcas_Cyan"
+    url: "https://github.com/edia-toolbox/edia_rcas"
+    default_version: ""

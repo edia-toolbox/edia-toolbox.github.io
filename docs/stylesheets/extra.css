@@ -17,29 +17,17 @@
   margin-bottom: 0.1em;
 }
 
-.md-typeset .grid.cards h4 {
-  margin-top: 0.2em;    /* Smaller gap inside the card */
-  margin-bottom: 0.1em;
-  text-transform: uppercase; /* Optional: makes card sub-headers look like labels */
-  letter-spacing: 0.05em;
-  font-size: 0.75rem;
-}
-
-.md-typeset h3.usecase-head {
-  display: flex;
-  align-items: center;   /* vertical centering */
-  gap: 0.6rem;
-}
-
-/* Prevent the image from sitting on the text baseline */
-.md-typeset h3.usecase-head img {
-  display: block;
-  margin: 0;
-}
-
 /* Force exactly 2 columns for MkDocs Material grid */
 .md-typeset .grid.cards.grid--cols-2 {
   grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.md-typeset .grid.cards img.usecase-thumb {
+  width: 100%;
+  height: 160px;        /* pick what looks good */
+  object-fit: contain;
+  display: block;
+  border-radius: 0.5rem;
 }
 
 /* Optional: keep it readable on small screens */
@@ -47,4 +35,55 @@
   .md-typeset .grid.cards.grid--cols-2 {
     grid-template-columns: 1fr;
   }
+}
+
+/* --- Collapsible admonitions (??? ...) + regular admonitions (!??) --- */
+/* INFO variant */
+
+/* Light mode */
+[data-md-color-scheme="default"] .md-typeset details.info,
+[data-md-color-scheme="default"] .md-typeset .admonition.info {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+  background-color: #e8f2ff;              /* box background */
+}
+
+/* Icon (masked) => set background-color, not color */
+[data-md-color-scheme="default"] .md-typeset details.info > summary::before {
+  background-color: #3f7bc9 !important;
+}
+
+/* Folding chevron (the > / arrow) */
+[data-md-color-scheme="default"] .md-typeset details.info > summary::after {
+  color: #1b344b;
+}
+
+[data-md-color-scheme="default"] .md-typeset details.info > summary,
+[data-md-color-scheme="default"] .md-typeset .admonition.info > .admonition-title {
+  background-color: #e8f2ff;              /* header background */
+  color: #173d6b;                          /* header text */
+}
+
+/* Dark mode */
+[data-md-color-scheme="slate"] .md-typeset details.info,
+[data-md-color-scheme="slate"] .md-typeset .admonition.info {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+  background-color: rgba(100, 181, 246, 0.10);
+}
+
+[data-md-color-scheme="slate"] .md-typeset details.info > summary::before {
+  background-color: #3f7bc9 !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset details.info > summary::after {
+  color: #6ea3c5;
+}
+
+[data-md-color-scheme="slate"] .md-typeset details.info > summary,
+[data-md-color-scheme="slate"] .md-typeset .admonition.info > .admonition-title {
+  background-color: rgba(100, 181, 246, 0.18);
+  color: #cbcbcb;
 }
