@@ -7,9 +7,9 @@ hide:
 
 ## **A Unity XR Toolbox for research**
 
-**EDIA** is designed to reduce implementation overhead in XR experiments by providing reusable architectural patterns and components. It supports rapid iteration and maintainable project structure, while leaving study-specific interaction logic and Unity scene configuration under the user’s control.
+**EDIA** is designed to reduce implementation overhead in XR experiments by providing reusable architectural patterns and components. It supports rapid iteration and a maintainable project structure, while leaving study-specific interaction logic and Unity scene configuration under the user’s control.
 
-:arrow_right: **EDIA** exists out of a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR.
+:arrow_right: The **EDIA toolbox** is a collection of modules (Unity packages) that help you design and run experimental research in XR.
 
 ![alt text](assets/frontpage_image.png)
 
