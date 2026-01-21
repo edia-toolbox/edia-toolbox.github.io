@@ -5,12 +5,13 @@ hide:
 
 # :edia-edia_rounded: EDIA
 
-## A Unity XR Toolbox for research
+## **A Unity XR Toolbox for research**
 
-!!! note "EDIA provides you with a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR."
-    
+**EDIA** is designed to reduce implementation overhead in XR experiments by providing reusable architectural patterns and components. It supports rapid iteration and maintainable project structure, while leaving study-specific interaction logic and Unity scene configuration under the user’s control.
+
+:arrow_right: **EDIA** exists out of a set of modules (Unity packages) to facilitate the design and conduction of experimental research in XR.
+
 ![alt text](assets/frontpage_image.png)
-
 
 ## Key features
 
@@ -68,8 +69,6 @@ hide:
     [:octicons-arrow-right-24: :edia-Edia_Lsl_Yellow: `EDIA LSL`](https://mind-body-emotion.notion.site/EDIA-LSL-d0a26b0a043d408dbe353221242296b6){target="_blank"}
 
 </div>
-
-
 
 ## Getting started
 Read our [getting started guide](gettingstarted.md).  
@@ -145,7 +144,6 @@ To install the EDIA modules into your Unity project, we recommend using our `EDI
     </div>
 
 ![alt text](assets/Edia_Diagram.svg)
-
 
 ## Get involved
 If you want to use EDIA or start contributing, please 
