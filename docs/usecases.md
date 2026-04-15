@@ -148,4 +148,37 @@ Below are example research projects that demonstrate how the EDIA modules can be
         - :fontawesome-solid-person-chalkboard: [Meeting Abstract [VSS 2025]](https://jov.arvojournals.org/article.aspx?articleid=2809682){:target="_blank"}
         - :fontawesome-solid-person-chalkboard: [Poster [Psychologie & Gehirn 2025]](https://pure.mpg.de/rest/items/item_3674441_3/component/file_3674442/content){:target="_blank"}
 
+-   ![TIDAL](assets/thumbnail_tidal.gif){ .usecase-thumb loading=lazy }  
+    **TIDAL: Tracking Interpersonal Distance And Loneliness**  
+
+    ??? info "Project details"
+        **Summary**: A multimodal pilot study examining how loneliness relates to interpersonal distance preferences and cardiac autonomic responses in a social stop-distance paradigm delivered in immersive VR. Participants are approached by virtual agents while ECG and movement data are recorded; a 5-day ecological momentary assessment arm captures everyday social experience and affect. The study tests associations between interoception, loneliness, and cardiac responses to social proximity.
+
+        **Time**: 2026–2028  
+
+        **Equipment**
+
+        - Platform: PC VR
+        - Headset: Varjo Aero
+
+        **Data modalities**
+
+        - :fontawesome-solid-heart: ECG
+        - :fontawesome-solid-person-walking: accelerometer
+        - :fontawesome-solid-eye: eye tracking
+        - :fontawesome-solid-mobile-screen: ecological momentary assessment
+        - :fontawesome-solid-gamepad: subjective reports
+        - :fontawesome-solid-clipboard-list: questionnaires
+
+        **EDIA Modules**
+
+        - {{ edia("core", version="v0.6.1") }}
+        - {{ edia("eye", version="v0.6.0") }}
+        - {{ edia("eye_varjo", version="pre-release") }}
+        - {{ edia("lsl", version="v0.6.1") }}
+
+        **Publications & links**
+
+        - :fontawesome-brands-github: [GitHub repo](https://github.com/alekspiejka/TIDAL){:target="_blank"}
+
 </div>
