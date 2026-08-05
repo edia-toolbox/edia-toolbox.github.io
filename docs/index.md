@@ -143,6 +143,8 @@ To install the EDIA modules into your Unity project, we recommend using our `EDI
     [:brands-pico_bg: PICO 4 Enterprise](https://github.com/edia-toolbox/edia_eye_pico){:target="_blank"}
     { .card }
 
+    </div>
+
 === ":edia-Edia_Blue: EDIA Survey"  
 
     [![Image title](assets/Edia_Blue.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_survey){:target="_blank"}
@@ -150,8 +152,6 @@ To install the EDIA modules into your Unity project, we recommend using our `EDI
     * Dynamic generation of surveys from JSON configuration files or ScriptableObjects in Unity  
     * Hooks in to the logfile pipeline of EDIA without any additional effort
     * Download from :fontawesome-brands-github: &rarr; [:edia-Edia_Blue: `EDIA Survey`](https://github.com/edia-toolbox/edia_survey){:target="_blank"}
-
-    </div>
 
 ![alt text](assets/Edia_Diagram.svg)
 
