@@ -101,7 +101,8 @@ To install the EDIA modules into your Unity project, we recommend using our `EDI
         3. Easily stream data (eye tracking data, movement data) in world or local coordinates.
     4. Download from :fontawesome-brands-github: &rarr; [:edia-Edia_Lsl_Yellow: `EDIA LSL`](https://github.com/edia-toolbox/edia_lsl){:target="_blank"}
 
-=== ":edia-Edia_Rcas_Cyan: EDIA RCAS"  
+=== ":edia-Edia_Rcas_Cyan: EDIA RCAS"
+
     [![Image title](assets/Edia_Rcas_Cyan.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_rcas){:target="_blank"}  
 
     1. <span style="color: cyan;">**R**</span>emote <span style="color: cyan;">**C**</span>ontrol <span style="color: cyan;">**A**</span>nd <span style="color: cyan;">**S**</span>treaming.
@@ -111,7 +112,8 @@ To install the EDIA modules into your Unity project, we recommend using our `EDI
     5. Stream the headset view to the experimenter's device (*limited).
     6. Download from :fontawesome-brands-github: &rarr; [:edia-Edia_Rcas_Cyan: `EDIA RCAS`](https://github.com/edia-toolbox/edia_rcas){:target="_blank"}
 
-=== ":edia-Edia_Eye_Orange: EDIA Eye"  
+=== ":edia-Edia_Eye_Orange: EDIA Eye"
+
      [![Image title](assets/Edia_Eye_Orange.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_eye){:target="_blank"}  
 
     * Central :eye: eye tracking package of the `EDIA toolbox`.  
@@ -120,9 +122,9 @@ To install the EDIA modules into your Unity project, we recommend using our `EDI
     * Interface for logging eye tracking data via [:edia-Edia_Lsl_Yellow:`EDIA LSL`](https://github.com/edia-toolbox/edia_lsl) or writing it to disc.
     * Download from :fontawesome-brands-github: &rarr; [:edia-Edia_Eye_Orange: `EDIA Eye`](https://github.com/edia-toolbox/edia_eye){:target="_blank"}
 
+=== ":edia-Edia_Eye_Orange: EDIA Eye Submodules"
 
-=== ":edia-Edia_Eye_Orange: EDIA Eye Submodules"  
-    ![Image title](assets/Edia_Eye_Orange.svg){ width=100 align=left }
+    [![Image title](assets/Edia_Eye_Orange.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_eye){:target="_blank"}
 
     Separate submodules (packages) allow to parse the eye tracking data from the respective device into the unified EDIA eye tracking structure.  
     **Supported headsets:**
@@ -140,6 +142,14 @@ To install the EDIA modules into your Unity project, we recommend using our `EDI
 
     [:brands-pico_bg: PICO 4 Enterprise](https://github.com/edia-toolbox/edia_eye_pico){:target="_blank"}
     { .card }
+
+=== ":edia-Edia_Blue: EDIA Survey"  
+
+    [![Image title](assets/Edia_Blue.svg){ width=100 align=left }](https://github.com/edia-toolbox/edia_survey){:target="_blank"}
+
+    * Dynamic generation of surveys from JSON configuration files or ScriptableObjects in Unity  
+    * Hooks in to the logfile pipeline of EDIA without any additional effort
+    * Download from :fontawesome-brands-github: &rarr; [:edia-Edia_Blue: `EDIA Survey`](https://github.com/edia-toolbox/edia_survey){:target="_blank"}
 
     </div>
 
