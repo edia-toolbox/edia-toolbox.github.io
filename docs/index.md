@@ -59,6 +59,14 @@ hide:
 
     [:octicons-arrow-right-24: Getting started](https://mind-body-emotion.notion.site/Logging-the-results-1cb03dd4773f81b196b0f164eb1a67be){target="_blank"}
 
+-   :material-format-list-checks:{ .lg .middle } __Ask questions inside VR__
+
+    ---
+
+    Present questionnaires to your participants without taking off the headset. Define your surveys in JSON config files or Unity ScriptableObjects, and the answers are written to your experiment's log files automatically.
+
+    [:octicons-arrow-right-24: :edia-Edia_Blue: `EDIA Survey`](https://github.com/edia-toolbox/edia_survey){:target="_blank"}
+
 -   :material-remote:{ .lg .middle } __Synchronize with external data__
 
     ---
