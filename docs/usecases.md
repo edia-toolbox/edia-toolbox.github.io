@@ -181,4 +181,31 @@ Below are example research projects that demonstrate how the EDIA modules can be
 
         - :fontawesome-brands-github: [GitHub repo](https://github.com/alekspiejka/TIDAL){:target="_blank"}
 
+-   ![SpaceVR](assets/thumbnail_spacevr.gif){ .usecase-thumb loading=lazy }  
+    **SpaceVR: Idiothetic cue availability and spatial memory formation in immersive virtual reality in adolescence**  
+
+    ??? info "Project details"
+        **Summary**: The SpaceVR study investigates how idiothetic cues contribute to spatial memory above and beyond visual cues in adolescents. Using a within-subjects mobile VR paradigm, participants complete matched path integration and spatial memory tasks under two conditions: free walking or seated and controller-based. The study illuminates the developmental sequence in which distance and angular estimation mature as a function of cue availability and are integrated with visual information to refine spatial memory accuracy.
+
+        **Time**: 2026–ongoing  
+
+        **Equipment**
+
+        - Platform: PC VR
+        - Headset: Meta Quest Pro
+        - Interaction: Meta Quest Touch Pro Controllers
+
+        **Data modalities**
+
+        - :fontawesome-solid-rotate: head tracking
+        - :fontawesome-solid-eye: eye tracking
+
+        **EDIA Modules**
+
+        - {{ edia("core", version="v0.6.1") }}
+        - {{ edia("eye", version="v0.6.0") }}
+        - {{ edia("eye_quest", version="exp-validet") }}
+
+        **Publications & links**: TBA
+
 </div>
